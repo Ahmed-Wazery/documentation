@@ -49,6 +49,8 @@ Community submitted bugs and feature requests can be found [in the Terminus GitH
 [Contact Support](https://dashboard.pantheon.io/#support/support/all) if you have questions or need help with Terminus.
 
 ## More Resources
+terminus wp <site>.<env> -- launchcheck <subcommand>
+
 
 - [Quicksilver on Pantheon](/guides/quicksilver)
 - [WP-CLI on the Pantheon Platform](/guides/wp-cli)
